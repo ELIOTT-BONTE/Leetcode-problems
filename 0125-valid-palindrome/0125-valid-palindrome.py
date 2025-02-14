@@ -4,17 +4,19 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        stack = []
+        # initialize two pointers
 
-        for c in s:
-            if c.isalnum():
-                stack.append(c.lower())
-
-        print(stack)
+        l, r = 0, len(s)-1
         
-        for c in s:
-            if c.isalnum():
-                if c.lower() != stack.pop():
-                    return False
-        
+        while l < r:
+            while l <= len(s) - 1 and not s[l].isalnum() :
+                l+=1
+            while r >= 0 and not s[r].isalnum() :
+                r-=1
+            if l<r and  not (s[l].lower() == s[r].lower()):
+                return False
+            l += 1
+            r -= 1
+            
         return True
+            
