@@ -9,7 +9,14 @@ class Solution:
         count = defaultdict(int)
 
         for n in nums:
-            count[n] += 1
-        for n,v in count.items():
-            if v == 1:
-                return n
+            if count[n] == 0:
+                count[n] += 1
+            else:
+                count.pop(n)
+        # print(count)
+
+        return next(iter(count))
+
+        # for n,v in count.items():
+        #     if v == 1:
+        #         return n
