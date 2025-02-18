@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
