@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0792-binary-search) |
+| [1014-k-closest-points-to-origin](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [1014-k-closest-points-to-origin](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,13 +99,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0202-happy-number) |
+| [1014-k-closest-points-to-origin](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0191-number-of-1-bits) |
+| [1014-k-closest-points-to-origin](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
