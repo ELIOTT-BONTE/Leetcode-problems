@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0136-single-number) |
+| [0542-01-matrix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0792-binary-search) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0542-01-matrix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0542-01-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0733-flood-fill) |
 ## Bit Manipulation
 |  |
