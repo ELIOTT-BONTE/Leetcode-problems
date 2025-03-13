@@ -45,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
