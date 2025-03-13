@@ -10,13 +10,12 @@ class Solution:
 
         current = headA
         while current:
-            encountered.add(current)  # Store the actual node reference
+            encountered.add(current)
             current = current.next
-        
         current = headB
         while current:
-            if current in encountered:  # Check if the node itself (not value) exists in the set
+            if current in encountered:
                 return current
             current = current.next
-        
         return None
+        
