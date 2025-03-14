@@ -9,10 +9,28 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: bool
         """
-        helper = []
 
-        while head:
-            helper.append(head.val)
+        #find middle
+        slow, fast = head, head
+        while fast and fast.next:
+            fast = fast.next.next
+            slow = slow.next
+        middle = slow
+
+        #reverse second part
+        prev = None
+
+        while middle:
+            nextNode = middle.next
+            middle.next = prev
+            prev = middle
+            middle = nextNode
+
+        #compare second part to first part
+        while head and prev:
+            if head.val != prev.val:
+                return False
+            prev = prev.next
             head = head.next
         
-        return helper == helper[::-1]
+        return True
