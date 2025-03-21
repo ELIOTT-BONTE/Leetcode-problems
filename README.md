@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0252-meeting-rooms](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0252-meeting-rooms) |
 | [0542-01-matrix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0792-binary-search) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0252-meeting-rooms) |
 | [1014-k-closest-points-to-origin](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
