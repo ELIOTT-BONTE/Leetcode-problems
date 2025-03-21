@@ -13,7 +13,6 @@ class Solution(object):
         def dfs(node):
             if not node:
                 return 0
-            else:
-                return max(dfs(node.left), dfs(node.right))+1
+            return max(dfs(node.left), dfs(node.right))+1
         
         return dfs(root)
