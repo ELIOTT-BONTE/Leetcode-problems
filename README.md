@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0257-binary-tree-paths) |
+| [0874-backspace-string-compare](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
