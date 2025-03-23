@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0542-01-matrix) |
 ## Tree
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
