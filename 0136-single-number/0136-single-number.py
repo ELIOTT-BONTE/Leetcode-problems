@@ -4,10 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        encountered = set()
+        # bitwise manipulation
+        #perform XOR on the bit rep of all elemes
+        # each double elem will cancel each other, leaving only the unique one
+        res = 0
         for n in nums:
-            if n in encountered:
-                encountered.remove(n)
-            else:
-                encountered.add(n)
-        return next(iter(encountered))
+            res ^= n
+        return res
