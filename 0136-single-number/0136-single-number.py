@@ -1,22 +1,16 @@
 from collections import defaultdict
 
-class Solution:
-    def singleNumber(self, nums: List[int]) -> int:
-        #initate a hashmap
-
-        #when a value in hashmap reaches 2, return its key
-
-        count = defaultdict(int)
-
+class Solution(object):
+    def singleNumber(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        encountered = set()
+        res = []
         for n in nums:
-            if count[n] == 0:
-                count[n] += 1
+            if n in encountered:
+                encountered.remove(n)
             else:
-                count.pop(n)
-        # print(count)
-
-        return next(iter(count))
-
-        # for n,v in count.items():
-        #     if v == 1:
-        #         return n
+                encountered.add(n)
+        return next(iter(encountered))
