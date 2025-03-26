@@ -1,25 +1,36 @@
 from collections import deque
 
+class Solution(object):
+    def updateMatrix(self, mat):
+        """
+        :type mat: List[List[int]]
+        :rtype: List[List[int]]
+        """
+        #intialize zeroes to 0
+        #rest at infinity
+        #at each non zero, add to queue
+        # consume queue by spreading to adjacent cells (val + 1), if within boundaries
 
-class Solution:
-    def updateMatrix(self, mat: List[List[int]]) -> List[List[int]]:
-        rows, cols = len(mat), len(mat[0])
-        directions = [(0,1), (0, -1), (1, 0), (-1, 0)]
+        width = len(mat)
+        length = len(mat[0])
         queue = deque()
+        directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
 
-        for c in range(cols):
-            for r in range(rows):
-                if mat[r][c] == 0:
-                    queue.append((r,c))
-                else:
-                    mat[r][c] = float("inf")
+        for x in range(width):
+            for y in range(length):
+                if mat[x][y] == 0:
+                    queue.append([x,y])
+                elif mat[x][y] == 1:
+                    mat[x][y] = float("inf")
+
 
         while queue:
-            r, c = queue.popleft()
-            for dr, dc in directions:
-                nr, nc = r + dr, c + dc
-                if 0 <= nr < rows and 0 <= nc < cols and mat[nr][nc] > mat[r][c] + 1:
-                    mat[nr][nc] = mat[r][c] + 1
-                    queue.append((nr, nc))
-
+            x, y = queue.popleft()
+            for dx, dy in directions:
+                new_y = y + dy
+                new_x = x + dx
+                if 0 <= new_y < length and 0 <= new_x < width and mat[x][y] + 1 < mat[new_x][new_y]:
+                    mat[new_x][new_y] = mat[x][y] + 1
+                    queue.append([new_x, new_y])
+        
         return mat
