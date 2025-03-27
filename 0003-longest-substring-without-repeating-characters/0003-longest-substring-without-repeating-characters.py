@@ -1,23 +1,20 @@
-from collections import defaultdict
-
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        l,r = 0, 0
-        encountered = set()
-        res = 0
+        #left and right pointers
+        #check if right pointed value in hash
+        #if yes, move l until it is not anymore
+        #if no, add it to hash, then compute r - l
 
+        l, r = 0, 0
+        maxi = 0
+        encountered = set()
         while r < len(s):
-            
-            
-            
-            if s[r] not in encountered:
-                diff = r - l+1
-                res = max(res, diff)
-                encountered.add(s[r])
-                r += 1
-                
-                
-            else :
+            if s[r] in encountered:
                 encountered.remove(s[l])
                 l += 1
-        return res
+            else:
+                encountered.add(s[r])
+                
+                r += 1
+                maxi = max(maxi, r - l)
+        return maxi
