@@ -1,13 +1,14 @@
-class TrieNode():
+from collections import defaultdict
+
+class TrieNode:
     def __init__(self):
-        self.children = {}
-        self.isEnd = False # a flag to tell if a words ends here
+        self.children = defaultdict(TrieNode)
+        self.isEnd = False
 
 class Trie:
 
     def __init__(self):
         self.root = TrieNode()
-        
 
     def insert(self, word: str) -> None:
         node = self.root
@@ -24,7 +25,6 @@ class Trie:
                 return False
             node = node.children[c]
         return node.isEnd
-        
 
     def startsWith(self, prefix: str) -> bool:
         node = self.root
@@ -32,7 +32,7 @@ class Trie:
             if c not in node.children:
                 return False
             node = node.children[c]
-        return True        
+        return True
 
 
 # Your Trie object will be instantiated and called as such:
