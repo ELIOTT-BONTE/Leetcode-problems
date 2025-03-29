@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0268-missing-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0874-backspace-string-compare](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0874-backspace-string-compare) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
