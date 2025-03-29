@@ -1,30 +1,32 @@
-from collections import deque
+from collections import deque, defaultdict
 
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        
-
+        # make the graph
         graph = defaultdict(list)
-        inc = [0]*numCourses
-        processed = 0 #count processed nodes
+        # make the incomingEdges array
+        incomingEdges = [0] * numCourses
 
         for dest, src in prerequisites:
             graph[src].append(dest)
-            inc[dest] += 1
+            incomingEdges[dest] += 1
 
-        process = deque([i for i in range(numCourses) if inc[i] == 0]) #add to queue all nodes that have 0 incoming edges
+        queue = deque([i for i in range(numCourses) if incomingEdges[i] == 0])
+        
+        deleted = 0
+        #count of nodes deleted
 
-        # process nodes
+        while queue:
+            node = queue.popleft()
+            deleted += 1
+            for neighbour in graph[node]:
+                incomingEdges[neighbour] -= 1
+                if incomingEdges[neighbour] == 0:
+                    queue.append(neighbour)
+        
+        return deleted == numCourses
+        #delete node if it has 0 incoming edges
+        #decrease incoming edges of its neighbours by 1
 
-        # for each node
-        # increase count of nodes processed
-        while process:
-            node = process.popleft()
-            processed +=1
-            # reduces inc of its neighbors by one
-            for neighbor in graph[node]:
-                inc[neighbor] -=1
-                if inc[neighbor] == 0:
-                    process.append(neighbor)
-            # if neighbor has 0 inc, add it to queue
-        return processed == numCourses
+        #return deletedNodes == numCourses
+
