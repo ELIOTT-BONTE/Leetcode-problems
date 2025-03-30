@@ -1,29 +1,28 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
+        # go trough matrix
+        # when encountering 1
+        # call flood
+        # increment count by 1
 
-        counter = 0
-        directions = [[1,0],[-1,0], [0,-1],[0,1]]
-        queue = deque()
+        # flood
+        # if square = 1
+        # replace it by 0
+        # call flood on neighbours, if within boundaries
+        directions = [[0,1],[0,-1],[1,0],[-1,0]]
+        count = 0
 
-        def clearIsland(x, y):
-            grid[x][y] = "0"
-            for dx, dy in directions:
-                newx = dx+x
-                newy = dy+y
-                if 0<=newx<len(grid) and 0<=newy<len(grid[0]) and grid[newx][newy] == "1":
-                    clearIsland(newx,newy)
+        def flood(x,y):
+            if grid[x][y] == "1":
+                grid[x][y] = "0"
+                for dx, dy in directions:
+                    if 0 <= dx + x < len(grid) and 0 <= dy + y < len(grid[0]):
+                        flood(dx + x, dy + y)
 
-        for x in range(len(grid)) :
+        for x in range(len(grid)):
             for y in range(len(grid[0])):
                 if grid[x][y] == "1":
-                    counter +=1
-                    clearIsland(x,y)
+                    count += 1
+                    flood(x,y)
 
-        return counter
-
-
-        #iterate through the map
-        #when meeting a 1, increase counter and clear island
-    
-        #when done iterating, return counter
-
+        return count                    
