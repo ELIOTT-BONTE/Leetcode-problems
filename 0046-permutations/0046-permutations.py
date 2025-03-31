@@ -1,21 +1,27 @@
-class Solution:
-    def permute(self, nums: List[int]) -> List[List[int]]:
+class Solution(object):
+    def permute(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
         res = []
-        curr = [] # the current permutation being built
-        added = set() # the numbers already in the permutation
+        added = set()
 
-        def backtrack(added, curr):
-            for i in range(len(nums)):
-                if len(curr) == len(nums): # permutation finished
-                    res.append(curr[:]) # add copy of current candidate
-                    return
-                if nums[i] not in added:
-                    curr.append(nums[i])
-                    added.add(nums[i])
+        # if number is already in permutation, skip it
 
-                    backtrack(added, curr) # recursive call
-                    curr.pop() # backtrack, undo last choice
-                    added.remove(nums[i])
-        
-        backtrack(added, curr)
+        def backtracking(candidate):
+            
+            if len(candidate) == len(nums): # valid permutation
+                res.append(candidate[:]) # use a copy of candidate
+            for n in nums:
+                if n in added:
+                    continue #skip this number
+                added.add(n)
+                candidate.append(n)
+                backtracking(candidate)
+                candidate.pop() # backtrack, so pop last thing we added
+                added.remove(n)
+            
+        backtracking([])
         return res
+            
