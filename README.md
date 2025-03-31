@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0057-insert-interval) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0257-binary-tree-paths) |
 ## Union Find
 |  |
