@@ -12,7 +12,7 @@ class Solution:
             for i in range(start, len(candidates)): # if sum less than target, add next candidate (can be same one or a latter one)
                 combination.append(candidates[i])
                 dfs(i, combination, sum+candidates[i])
-                combination.pop()
+                combination.pop() # after finding a good combination of going too far, pop last elem
         
         dfs(0, [], 0)
         return res
