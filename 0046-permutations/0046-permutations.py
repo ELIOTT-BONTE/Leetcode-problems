@@ -14,13 +14,11 @@ class Solution(object):
             if len(candidate) == len(nums): # valid permutation
                 res.append(candidate[:]) # use a copy of candidate
             for n in nums:
-                if n in added:
+                if n in candidate:
                     continue #skip this number
-                added.add(n)
                 candidate.append(n)
                 backtracking(candidate)
                 candidate.pop() # backtrack, so pop last thing we added
-                added.remove(n)
             
         backtracking([])
         return res
