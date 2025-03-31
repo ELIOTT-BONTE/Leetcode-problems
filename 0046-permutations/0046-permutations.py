@@ -5,7 +5,6 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         res = []
-        added = set()
 
         # if number is already in permutation, skip it
 
