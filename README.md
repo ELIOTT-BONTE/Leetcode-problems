@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1036-rotting-oranges) |
+| [1582-design-browser-history](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1582-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0874-backspace-string-compare) |
+| [1582-design-browser-history](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1582-design-browser-history) |
 ## Linked List
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [1582-design-browser-history](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -286,4 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
