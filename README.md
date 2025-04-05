@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1036-rotting-oranges) |
+| [1428-jump-game-iii](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1428-jump-game-iii) |
 | [1582-design-browser-history](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1582-design-browser-history) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0733-flood-fill) |
+| [1428-jump-game-iii](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1428-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1036-rotting-oranges) |
+| [1428-jump-game-iii](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1428-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
