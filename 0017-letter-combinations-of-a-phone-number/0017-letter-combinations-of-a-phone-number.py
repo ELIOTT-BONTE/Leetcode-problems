@@ -13,11 +13,14 @@ class Solution(object):
         }
 
         res = [""]
+        # for d in digits:
+        #     temp = []
+        #     for char in key[d]:
+        #         for r in res:
+        #             temp.append(r + char)
+        #     res = temp
+
         for d in digits:
-            temp = []
-            for char in key[d]:
-                for r in res:
-                    temp.append(r + char)
-            res = temp
+            res = [r + k for r in res for k in key[d]]
         
         return res
