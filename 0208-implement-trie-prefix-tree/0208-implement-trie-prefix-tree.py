@@ -1,37 +1,50 @@
-from collections import defaultdict
-
-class TrieNode:
+class Node:
     def __init__(self):
-        self.children = defaultdict(TrieNode)
-        self.isEnd = False
+        self.is_end = False
+        self.neighbours = {}
 
-class Trie:
+class Trie(object):
 
     def __init__(self):
-        self.root = TrieNode()
+        self.root = Node()
 
-    def insert(self, word: str) -> None:
+    def insert(self, word):
+        """
+        :type word: str
+        :rtype: None
+        """
         node = self.root
-        for c in word:
-            if c not in node.children:
-                node.children[c] = TrieNode()
-            node = node.children[c]
-        node.isEnd = True
+        for char in word:
+            if not char in node.neighbours:
+                node.neighbours[char] = Node()
+            node = node.neighbours[char]
+        node.is_end = True
+        
 
-    def search(self, word: str) -> bool:
+    def search(self, word):
+        """
+        :type word: str
+        :rtype: bool
+        """
         node = self.root
-        for c in word:
-            if c not in node.children:
+        for char in word:
+            if not char in node.neighbours:
                 return False
-            node = node.children[c]
-        return node.isEnd
+            node = node.neighbours[char]
+        return node.is_end
+        
 
-    def startsWith(self, prefix: str) -> bool:
+
+    def startsWith(self, prefix):
+        """
+        :type prefix: str
+        :rtype: bool
+        """
         node = self.root
-        for c in prefix:
-            if c not in node.children:
+        for char in prefix:
+            if not char in node.neighbours:
                 return False
-            node = node.children[c]
+            node = node.neighbours[char]
         return True
 
 
