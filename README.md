@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0792-binary-search) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0268-missing-number) |
+| [0621-task-scheduler](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0268-missing-number) |
+| [0621-task-scheduler](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0621-task-scheduler](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0621-task-scheduler) |
 ## Geometry
 |  |
 | ------- |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -319,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0739-daily-temperatures) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
