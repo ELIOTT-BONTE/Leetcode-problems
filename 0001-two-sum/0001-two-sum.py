@@ -1,26 +1,12 @@
 from collections import defaultdict
 
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        #hashmap {key:value}
-        #iterate through array
-        #check difference target - val
-        #if difference in hashmap, then
-        #return both
-        #otherwise, add iterated val and index
 
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        l, r = 0, len(nums)-1
         encountered = defaultdict(int)
-        i = 0
-        while i <= len(nums)-1:
-            diff = target - nums[i]
-            if diff in encountered:
-                return encountered[diff],i
-            else:
-                encountered[nums[i]] = i
-            i += 1
-            
+        for index, num in enumerate(nums):
+            complement = target - num
+            if complement in encountered.keys():
+                return [index, encountered[complement]]
+            encountered[num] = index
