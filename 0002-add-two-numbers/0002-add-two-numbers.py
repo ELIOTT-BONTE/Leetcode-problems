@@ -1,30 +1,25 @@
 # Definition for singly-linked list.
-# class ListNode(object):
+# class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-class Solution(object):
-    def addTwoNumbers(self, l1, l2):
-        """
-        :type l1: Optional[ListNode]
-        :type l2: Optional[ListNode]
-        :rtype: Optional[ListNode]
-        """
+class Solution:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        pointer1 = l1
+        pointer2 = l2
+        dummy = ListNode()
+        pointer3 = dummy
         remainder = 0
-        dummy = ListNode() # the result we build
-        current = dummy
 
-        while l1 or l2 or remainder:
-            val1 = l1.val if l1 else 0
-            val2 = l2.val if l2 else 0
-            curr = val1 + val2 + remainder
-            remainder = curr // 10
-            current.next = ListNode(curr % 10)
-            current = current.next
-            l1 = l1.next if l1 else None
-            l2 = l2.next if l2 else None
+        while pointer1 or pointer2 or remainder:
+            val1 = pointer1.val if pointer1 else 0
+            val2 = pointer2.val if pointer2 else 0
+            res = val1 + val2 + remainder
 
+            remainder = res//10
+            res = res%10
+            pointer3.next = ListNode(res)
+            pointer1 = pointer1.next if pointer1 else None
+            pointer2 = pointer2.next if pointer2 else None
+            pointer3 = pointer3.next
         return dummy.next
-    
-        
-
