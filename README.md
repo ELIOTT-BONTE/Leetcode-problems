@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0056-merge-intervals) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0733-flood-fill) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0268-missing-number) |
