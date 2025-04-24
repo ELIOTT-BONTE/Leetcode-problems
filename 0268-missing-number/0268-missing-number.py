@@ -1,9 +1,9 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        #bit manipulation
-        #XOR each number with its index
-        #when the two are present in the equation, they cancel each other
-        missing = len(nums)
-        for i, num in enumerate(nums):
-            missing ^= i ^ num
-        return missing
+        # gauss formula
+        n = len(nums)
+        expected_sum = n*(n+1)//2
+        actual_sum = 0
+        for n in nums:
+            actual_sum += n
+        return  expected_sum -actual_sum
