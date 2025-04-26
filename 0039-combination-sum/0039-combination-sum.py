@@ -1,18 +1,18 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         res = []
-        # all elems are unique, so to avoid duplicate, move start of iteration forward each iteration
-
-        def dfs(start, combination, sum):
-            if sum == target: # if sum is target, add combination
-                res.append(combination[:])
+        def backtrack(start, sum, path):
+            if sum > target:
                 return
-            elif sum > target:  # if sum more than target, stop
-                return
-            for i in range(start, len(candidates)): # if sum less than target, add next candidate (can be same one or a latter one)
-                combination.append(candidates[i])
-                dfs(i, combination, sum+candidates[i])
-                combination.pop() # after finding a good combination of going too far, pop last elem
-        
-        dfs(0, [], 0)
+            elif sum == target:
+                res.append(path[:])
+            for i in range(start, len(candidates)):
+                sum = sum + candidates[i]
+                path.append(candidates[i])
+                backtrack(i, sum, path)
+                sum = sum - candidates[i]
+                path.pop()
+        backtrack(0, 0, [])
         return res
+
+            
