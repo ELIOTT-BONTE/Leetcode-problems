@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0257-binary-tree-paths) |
 ## Union Find
 |  |
