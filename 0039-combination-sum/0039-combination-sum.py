@@ -3,7 +3,7 @@ class Solution:
         res = []
         def backtrack(start, sum, path):
             if sum > target:
-                return
+                return res
             elif sum == target:
                 res.append(path[:])
             for i in range(start, len(candidates)):
