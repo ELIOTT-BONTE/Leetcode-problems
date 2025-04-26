@@ -5,7 +5,7 @@ class Solution:
         def backtrack(start, sum, path):
             if sum > target:
                 return
-            elif sum == target and path not in res:
+            elif sum == target:
                 res.append(path[:])
             for index, i in enumerate(range(start, len(candidates))):
                 if index > 0 and candidates[i] == candidates[i-1]:
