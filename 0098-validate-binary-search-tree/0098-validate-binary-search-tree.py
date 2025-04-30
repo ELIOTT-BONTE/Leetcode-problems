@@ -1,23 +1,19 @@
 # Definition for a binary tree node.
-# class TreeNode(object):
+# class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution(object):
-    def isValidBST(self, root):
-        """
-        :type root: Optional[TreeNode]
-        :rtype: bool
-        """
-        upper, lower = float("inf"), -float("inf")
-        def dfs(upper, lower, node):
+class Solution:
+    def isValidBST(self, root: Optional[TreeNode]) -> bool:
+        floor, ceiling = -float("inf"), float("inf")
+        def dfs(floor, ceiling, node):
             if not node:
                 return True
-            if not lower < node.val < upper:
+            elif not floor < node.val < ceiling:
                 return False
-                
-                
-                
-            return dfs(node.val, lower, node.left) and dfs(upper, node.val, node.right)
-        return dfs(upper, lower, root)
+            else:
+                return dfs(floor, node.val, node.left) and dfs(node.val, ceiling, node.right)
+        
+        return dfs(floor, ceiling, root)
+        
