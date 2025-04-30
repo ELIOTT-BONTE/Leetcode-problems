@@ -1,28 +1,36 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        # go trough matrix
-        # when encountering 1
-        # call flood
-        # increment count by 1
+        # traverse grid
+        # each time island is encountered, flood it
+        # to flood, use BFS with queue
+        # return number of times flood was called
 
-        # flood
-        # if square = 1
-        # replace it by 0
-        # call flood on neighbours, if within boundaries
-        directions = [[0,1],[0,-1],[1,0],[-1,0]]
         count = 0
+        height = len(grid)
+        width = len(grid[0])
 
         def flood(x,y):
-            if grid[x][y] == "1":
-                grid[x][y] = "0"
-                for dx, dy in directions:
-                    if 0 <= dx + x < len(grid) and 0 <= dy + y < len(grid[0]):
-                        flood(dx + x, dy + y)
+            directions = [(0,1), (0,-1), (1, 0), (-1, 0)]
+            queue = deque([(x,y)])
+            while queue:
+                x, y = queue.popleft()
+                for directionX, directionY in directions:
+                    newX = x + directionX
+                    newY = y + directionY
+                    if (0 <= newX < height) and (0 <= newY < width) and grid[newX][newY] == "1":
+                        grid[newX][newY] = "0"
+                        queue.append((newX, newY))
 
-        for x in range(len(grid)):
-            for y in range(len(grid[0])):
+
+
+        for x in range(height):
+            for y in range(width):
                 if grid[x][y] == "1":
-                    count += 1
                     flood(x,y)
+                    count += 1
 
-        return count                    
+
+
+
+
+        return count
