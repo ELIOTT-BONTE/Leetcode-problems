@@ -9,8 +9,9 @@ class Solution:
         height = len(grid)
         width = len(grid[0])
 
+        directions = [(0,1), (0,-1), (1, 0), (-1, 0)]
         def flood(x,y):
-            directions = [(0,1), (0,-1), (1, 0), (-1, 0)]
+            
             queue = deque([(x,y)])
             while queue:
                 x, y = queue.popleft()
