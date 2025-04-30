@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0739-daily-temperatures) |
+| [0753-open-the-lock](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0837-most-common-word) |
 | [1014-k-closest-points-to-origin](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0621-task-scheduler) |
+| [0753-open-the-lock](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0753-open-the-lock) |
 | [0837-most-common-word](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0837-most-common-word) |
 ## String
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0257-binary-tree-paths) |
+| [0753-open-the-lock](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0753-open-the-lock) |
 | [0837-most-common-word](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 ## Stack
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0733-flood-fill) |
+| [0753-open-the-lock](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1428-jump-game-iii) |
 ## Binary Tree
