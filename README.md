@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0202-happy-number) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0257-binary-tree-paths) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0542-01-matrix) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 ## Binary Search Tree
 |  |
@@ -367,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0837-most-common-word) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
