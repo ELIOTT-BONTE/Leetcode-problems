@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0252-meeting-rooms](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0542-01-matrix) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0874-backspace-string-compare](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0792-binary-search) |
 ## Matrix
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0338-counting-bits) |
 ## Math
 |  |
