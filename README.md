@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0252-meeting-rooms](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0621-task-scheduler) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0542-01-matrix) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0792-binary-search) |
 ## Matrix
 |  |
