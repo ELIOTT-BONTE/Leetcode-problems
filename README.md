@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0257-binary-tree-paths) |
+| [0261-graph-valid-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0261-graph-valid-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0733-flood-fill) |
 | [1428-jump-game-iii](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/1428-jump-game-iii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0226-invert-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0261-graph-valid-tree) |
 | [0322-coin-change](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0733-flood-fill) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0200-number-of-islands) |
+| [0261-graph-valid-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0261-graph-valid-tree) |
 ## Design
 |  |
 | ------- |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/ELIOTT-BONTE/Leetcode-problems/tree/master/0261-graph-valid-tree) |
 ## Topological Sort
 |  |
 | ------- |
